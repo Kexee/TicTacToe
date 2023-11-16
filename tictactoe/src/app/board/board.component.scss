@@ -1,0 +1,17 @@
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+
+app-square {
+    border: 1px solid gray;
+    height: 200px;
+    background-color: rebeccapurple;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+app-square:hover {
+    background-color: rgb(125, 81, 169);
+}

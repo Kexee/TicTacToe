@@ -1,0 +1,140 @@
+[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m2.87 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m85.67 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [6.991 seconds][39m
+[37mWatch mode enabled. Watching for file changes...[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[36m⠴[39m Changes detected. Rebuilding...[2K[1G[36m⠦[39m Changes detected. Rebuilding...[2K[1G[36m⠧[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m3.03 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.656 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS7008: Member 'ramdom' implicitly has an 'any' type.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/square/square.component.ts:16:2:[39m[22m
+[1m[31m[37m      16 │   [32mramdom[37m;[39m[22m
+[1m[31m         ╵   [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.331 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m3.05 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m85.86 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.358 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'Input'. Did you mean 'oninput'?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/square/square.component.ts:16:3:[39m[22m
+[1m[31m[37m      16 │   @[32mInput[37m() value: 'X' | 'O'[39m[22m
+[1m[31m         ╵    [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  'oninput' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    node_modules/typescript/lib/lib.dom.d.ts:27594:12:[39m[22m
+[1m[31m[37m      27594 │ declare var [32moninput[37m: ((this: Window, ev: Event) => any) | null;[39m[22m
+[1m[31m            ╵             [32m~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2564: Property 'value' has no initializer and is not definitely assigned in the constructor.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/square/square.component.ts:16:11:[39m[22m
+[1m[31m[37m      16 │   @Input() [32mvalue[37m: 'X' | 'O'[39m[22m
+[1m[31m         ╵            [32m~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.379 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m3.02 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m85.83 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.376 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m3.13 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.328 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-board' is not a known element:[39m[22m
+[1m[31m1. If 'app-board' is an Angular component, then verify that it is included in the '@Component.imports' of this component.[39m[22m
+[1m[31m2. If 'app-board' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.html:0:0:[39m[22m
+[1m[31m[37m      0 │ [32m[37m[39m[22m
+[1m[31m        ╵ [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Error occurs in the template of component AppComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.component.ts:9:17:[39m[22m
+[1m[31m[37m      9 │     templateUrl: [32m'./app.component.html'[37m,[39m[22m
+[1m[31m        ╵                  [32m~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37mApplication bundle generation failed. [0.195 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m[1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m3.94 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m96 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m86.75 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.253 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.273 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m4.53 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.211 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m7.68 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.229 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m3.41 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.289 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m3.36 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.364 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m [96m7.68 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.347 seconds][39m
+[37mReloading client(s)...[39m
