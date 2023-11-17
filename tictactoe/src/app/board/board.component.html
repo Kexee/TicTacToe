@@ -1,12 +1,39 @@
-<h1>Current Player: {{player}}</h1>
-<button (click)="newGame()">Start new game</button>
+<style>
+  .score {
+    display: flex;
+    flex-direction: row;
+  }
 
-<h2 *ngIf="winner">
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 10px;
+  }
+
+  .new {
+    height: 2rem;
+    width: 15rem;
+    border-radius: 8px;
+    border: none;
+  }
+</style>
+
+<div class="score">
+  <h1 *ngIf="!winner">Current Player: {{player}}</h1>
+  <h1 *ngIf="winner">
     Player {{winner}} won the game!
-</h2>
+  </h1>
+</div>
 
 <main>
-    <app-square *ngFor="let val of squares; let i = index" [value]="val" (click)="makeMove(i)">
+  <app-square *ngFor="let val of squares; let i = index" [value]="val" (click)="makeMove(i)">
 
-    </app-square>
+  </app-square>
 </main>
+<div class="footer">
+  <button class="new" (click)="newGame()">
+    Start new game
+  </button>
+</div>

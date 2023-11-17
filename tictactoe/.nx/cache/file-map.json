@@ -278,39 +278,55 @@
         },
         {
           "file": ".nx/cache/cloud/verify.lock",
-          "hash": "6481967821759697940"
+          "hash": "5023180189558256951"
         },
         {
           "file": ".nx/cache/d/daemon.log",
-          "hash": "7693739107865435983"
+          "hash": "9693934924620944112"
         },
         {
           "file": ".nx/cache/d/server-process.json",
-          "hash": "3620922037799112"
+          "hash": "236566043957118845"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "4047700646327723114"
+          "hash": "7878333556243715497"
         },
         {
           "file": ".nx/cache/lockfile.hash",
-          "hash": "9563652195470232730"
+          "hash": "14505864890576283867"
         },
         {
           "file": ".nx/cache/parsed-lock-file.json",
-          "hash": "7250806799552644571"
+          "hash": "3904896422486051543"
         },
         {
           "file": ".nx/cache/project-graph.json",
-          "hash": "12508091629524812881"
+          "hash": "4686037522301262527"
         },
         {
           "file": ".nx/cache/terminalOutputs/10472006927882158861",
           "hash": "6593735519880048624"
         },
         {
+          "file": ".nx/cache/terminalOutputs/14068187615435311703",
+          "hash": "4629398172128162361"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/16846366749858755774",
+          "hash": "8302996629382945616"
+        },
+        {
           "file": ".nx/cache/terminalOutputs/2235035040378816211",
           "hash": "4277648347432016472"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/5746947435387000064",
+          "hash": "6516448479826772151"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/6091589544089288181",
+          "hash": "12979921975722095108"
         },
         {
           "file": ".vscode/extensions.json",
@@ -394,7 +410,7 @@
         },
         {
           "file": "src/app/app.component.html",
-          "hash": "4403860011632615321"
+          "hash": "13772558871870087370"
         },
         {
           "file": "src/app/app.component.scss",
@@ -409,7 +425,7 @@
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "5516126170959931203",
+          "hash": "8843339667939038136",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -442,7 +458,7 @@
         },
         {
           "file": "src/app/board/board.component.html",
-          "hash": "13928541432152031953"
+          "hash": "8308926092422746103"
         },
         {
           "file": "src/app/board/board.component.scss",
@@ -472,7 +488,7 @@
         },
         {
           "file": "src/app/square/square.component.ts",
-          "hash": "16807803573665622685",
+          "hash": "6642898793266647845",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
